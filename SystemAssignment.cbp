@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SystemAssignment" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option show_notes="0">
+			<notes>
+				<![CDATA[Testonly
+]]>
+			</notes>
+		</Option>
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SystemAssignment" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SystemAssignment" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Create_text.cpp" />
+		<Unit filename="Create_text.h" />
+		<Unit filename="Group_Menu.cpp" />
+		<Unit filename="UploadLog.cpp" />
+		<Unit filename="UploadLog.h" />
+		<Unit filename="Verify_prohibitwords.cpp" />
+		<Unit filename="Verify_prohibitwords.h" />
+		<Unit filename="case_c.cpp" />
+		<Unit filename="case_c.h" />
+		<Unit filename="case_exit.cpp" />
+		<Unit filename="case_exit.h" />
+		<Unit filename="copyright.cpp" />
+		<Unit filename="copyright.h" />
+		<Unit filename="filelevel.cpp" />
+		<Unit filename="filelevel.h" />
+		<Unit filename="god_power.h" />
+		<Unit filename="help.cpp" />
+		<Unit filename="help.h" />
+		<Unit filename="icon.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="launch_exit.cpp" />
+		<Unit filename="launch_exit.h" />
+		<Unit filename="level0.cpp" />
+		<Unit filename="level0.h" />
+		<Unit filename="level1.cpp" />
+		<Unit filename="level1.h" />
+		<Unit filename="level2.cpp" />
+		<Unit filename="level2.h" />
+		<Unit filename="list.cpp" />
+		<Unit filename="list.h" />
+		<Unit filename="login.cpp" />
+		<Unit filename="login.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main.h" />
+		<Unit filename="md5.cpp" />
+		<Unit filename="md5.h" />
+		<Unit filename="quit_r_w_c_func.cpp" />
+		<Unit filename="quit_r_w_c_func.h" />
+		<Unit filename="read_function.cpp" />
+		<Unit filename="read_function.h" />
+		<Unit filename="storelog.cpp" />
+		<Unit filename="storelog.h" />
+		<Unit filename="write.cpp" />
+		<Unit filename="write.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<AutoVersioning>
+				<Scheme minor_max="10" build_max="0" rev_max="0" rev_rand_max="10" build_times_to_increment_minor="100" />
+				<Settings autoincrement="1" date_declarations="1" use_define="0" update_manifest="0" do_auto_increment="0" ask_to_increment="0" language="C++" svn="0" svn_directory="" header_path="version.h" />
+				<Changes_Log show_changes_editor="0" app_title="released version %M.%m.%b of %p" changeslog_path="ChangesLog.txt" />
+				<Code header_guard="VERSION_H" namespace="AutoVersion" prefix="" />
+			</AutoVersioning>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

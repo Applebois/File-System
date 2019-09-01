@@ -1,0 +1,275 @@
+# depslib dependency file v1.0
+1536712721 source:c:\users\sam\desktop\systemassignment\main.cpp
+	<iostream>
+	<conio.h>
+	<sstream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"level0.h"
+	"level1.h"
+	"level2.h"
+	"md5.h"
+	"login.h"
+	"copyright.h"
+	"windows.h"
+	"help.h"
+	"storelog.h"
+	"Verify_prohibitwords.h"
+
+1536666949 source:c:\users\sam\desktop\systemassignment\level0.cpp
+	<iostream>
+	"level0.h"
+	<cstdlib>
+	<windows.h>
+	"level1.h"
+	"filelevel.h"
+	"write.h"
+	"list.h"
+	"case_c.h"
+	"case_exit.h"
+	"main.h"
+	"god_power.h"
+	"storelog.h"
+	<stdlib.h>
+	"launch_exit.h"
+
+1536210987 c:\users\sam\desktop\systemassignment\level0.h
+
+1536666951 source:c:\users\sam\desktop\systemassignment\level2.cpp
+	<iostream>
+	"level2.h"
+	<cstdlib>
+	<windows.h>
+	<errno.h>
+	"read_function.h"
+	"filelevel.h"
+	"list.h"
+	"case_c.h"
+	"case_exit.h"
+	"main.h"
+	"god_power.h"
+	"storelog.h"
+	"launch_exit.h"
+
+1536210989 c:\users\sam\desktop\systemassignment\level2.h
+
+1536666951 source:c:\users\sam\desktop\systemassignment\level1.cpp
+	<iostream>
+	"level1.h"
+	<cstdlib>
+	<windows.h>
+	"read_function.h"
+	"filelevel.h"
+	"write.h"
+	"case_c.h"
+	"list.h"
+	"case_exit.h"
+	"main.h"
+	"god_power.h"
+	"storelog.h"
+	"launch_exit.h"
+
+1536210982 c:\users\sam\desktop\systemassignment\level1.h
+
+1534561032 c:\users\sam\desktop\systemassignment\md5.h
+	<cstring>
+	<iostream>
+
+1534561062 source:c:\users\sam\desktop\systemassignment\md5.cpp
+	"md5.h"
+	<cstdio>
+
+1534588272 c:\users\sam\desktop\systemassignment\login.h
+
+1536711494 source:c:\users\sam\desktop\systemassignment\login.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Verify_prohibitwords.h"
+
+1536573844 source:c:\users\sam\desktop\systemassignment\icon.rc
+
+1535165834 source:c:\users\sam\desktop\systemassignment\copyright.cpp
+	<windows.h>
+
+1534940626 c:\users\sam\desktop\systemassignment\copyright.h
+	<windows.h>
+
+1535255814 c:\users\sam\desktop\systemassignment\filelevel.h
+
+1536679123 source:c:\users\sam\desktop\systemassignment\filelevel.cpp
+	<iostream>
+	<fstream>
+	"filelevel.h"
+
+1535278822 c:\users\sam\desktop\systemassignment\read_function.h
+	"level0.h"
+	"level1.h"
+	"level2.h"
+
+1536679148 source:c:\users\sam\desktop\systemassignment\read_function.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<sstream>
+	"level0.h"
+	"level1.h"
+	"level2.h"
+	"help.h"
+	"quit_r_w_c_func.h"
+
+1536679265 source:c:\users\sam\desktop\systemassignment\write.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<windows.h>
+	"help.h"
+	"quit_r_w_c_func.h"
+
+1536210911 c:\users\sam\desktop\systemassignment\write.h
+
+1535648670 c:\users\sam\desktop\systemassignment\list.h
+	<iostream>
+
+1536675127 source:c:\users\sam\desktop\systemassignment\list.cpp
+	<sstream>
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1535647579 source:c:\users\sam\desktop\systemassignment\casec.ccp.c
+
+1535679181 source:c:\users\sam\desktop\systemassignment\casec.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	"filelevel.h"
+	"case_c.h"
+
+1535678396 c:\users\sam\desktop\systemassignment\case_c.h
+	<iostream>
+
+1535679602 c:\users\sam\desktop\systemassignment\case_exit.h
+	<iostream>
+
+1536666933 source:c:\users\sam\desktop\systemassignment\case_exit.cpp
+	<iostream>
+	"quit_r_w_c_func.h"
+	"storelog.h"
+	"launch_exit.h"
+
+1536676178 source:c:\users\sam\desktop\systemassignment\case_c.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	"filelevel.h"
+	"case_c.h"
+	"help.h"
+	"quit_r_w_c_func.h"
+	"Create_text.h"
+
+1536167771 c:\users\sam\desktop\systemassignment\main.h
+	<iostream>
+
+1536502201 source:c:\users\sam\desktop\systemassignment\help.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
+1535882804 c:\users\sam\desktop\systemassignment\help.h
+	<iostream>
+
+1535889722 c:\users\sam\desktop\systemassignment\quit_r_w_c_func.h
+	<iostream>
+
+1535903232 source:c:\users\sam\desktop\systemassignment\quit_r_w_c_func.cpp
+	<iostream>
+
+1535891844 source:c:\users\sam\desktop\systemassignment\create_text.cpp
+	<iostream>
+	<fstream>
+	"filelevel.h"
+	"Create_text.h"
+
+1535891686 c:\users\sam\desktop\systemassignment\create_text.h
+	<iostream>
+
+1536153481 c:\users\sam\desktop\systemassignment\god_power.h
+	<iostream>
+
+1536669893 source:c:\users\sam\desktop\systemassignment\storelog.cpp
+	<iostream>
+	"storelog.h"
+	<fstream>
+	<time.h>
+	<cstdlib>
+	<ratio>
+	<chrono>
+	<windows.h>
+
+1536202141 source:c:\users\sam\desktop\systemassignment\god_power.cpp
+	<iostream>
+	"god_power.h"
+	<fstream>
+	"storelog.h"
+	"help.h"
+	<windows.h>
+	<sstream>
+
+1536553094 c:\users\sam\desktop\systemassignment\storelog.h
+	<iostream>
+
+1536709511 source:c:\users\sam\desktop\systemassignment\group_menu.cpp
+	<iostream>
+	"god_power.h"
+	<fstream>
+	"storelog.h"
+	"help.h"
+	<windows.h>
+	<sstream>
+	"UploadLog.h"
+
+1536340738 source:c:\users\sam\desktop\systemassignment\uploadlog.cpp
+	<iostream>
+	<windows.h>
+	"god_power.h"
+
+1536338484 c:\users\sam\desktop\systemassignment\uploadlog.h
+	<iostream>
+
+1536651075 source:c:\users\sam\desktop\systemassignment\splash.cpp
+	"splash.h"
+	"windowsx.h"
+
+1536651075 c:\users\sam\desktop\systemassignment\splash.h
+	"windows.h"
+
+1536651076 source:c:\users\sam\desktop\systemassignment\stdafx.cpp
+	"stdafx.h"
+
+1536651076 c:\users\sam\desktop\systemassignment\stdafx.h
+	<windows.h>
+
+1536665627 source:c:\users\sam\desktop\systemassignment\launch_exit.cpp
+	<iostream>
+	<windows.h>
+
+1536654092 c:\users\sam\desktop\systemassignment\launch_exit.h
+
+1536710705 c:\users\sam\desktop\systemassignment\verify_prohibitwords.h
+	<iostream>
+
+1536713383 source:c:\users\sam\desktop\systemassignment\verify_prohibitwords.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Verify_prohibitwords.h"
+	"windows.h"
+
