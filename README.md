@@ -1,3 +1,4 @@
+[![](http://img.youtube.com/vi/H0JSC8vNEDM/0.jpg)](http://www.youtube.com/watch?v=H0JSC8vNEDM "")
 Instruction from the beginning :
 
 FileSystem -i : register new user with username and password (By default user clearance is level 2 )
